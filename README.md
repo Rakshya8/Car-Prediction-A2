@@ -31,6 +31,7 @@
 ![6](https://github.com/Rakshya8/car-prediction/assets/45217500/198ef93e-1f36-4b35-a73d-ea9937b409fa)
 
 10. You can also access the deployed one in: https://st124088.ml2023.cs.ait.ac.th/
-![image](https://github.com/Rakshya8/Car-Prediction-A2/assets/45217500/4324e87c-f7f5-4d22-ac3e-a9a6104498b6)
+
+![6](https://github.com/Rakshya8/Car-Prediction-A2/assets/45217500/4324e87c-f7f5-4d22-ac3e-a9a6104498b6)
 
 
